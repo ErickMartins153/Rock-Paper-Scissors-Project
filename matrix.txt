@@ -1,0 +1,5 @@
+                    Computer               
+                rock paper scissors
+pla  rock         0    -1     1
+yer  paper        1     0    -1
+     scissors    -1     1     0
